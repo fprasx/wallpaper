@@ -1,0 +1,4 @@
+/target
+*.png
+message.txt
+.DS_Store
